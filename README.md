@@ -14,6 +14,8 @@
     areas could occur through these changes
 
 ## Steps to add new codes
+* If you want to add a code from the PB forums, please wait until the code has not been updated
+  for one month
 * One file codes:
   * To format the code correctly, use the "Code_formatting_helper" from the "repo-dev" branch
   * Insert the supported OS on the end of the file name, like this: CodeName[Win,Lin,Mac].pb
